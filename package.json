@@ -1,0 +1,29 @@
+{
+  "name": "fanfash",
+  "version": "1.0.0",
+  "description": "Fantasy Fashion Buyer League",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernieroach-ssense/fanfash.git"
+  },
+  "keywords": [
+    "Fantasy",
+    "Fashion",
+    "Buyer",
+    "League",
+    "SSENSE"
+  ],
+  "author": "Bernard Roach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernieroach-ssense/fanfash/issues"
+  },
+  "homepage": "https://github.com/bernieroach-ssense/fanfash#readme",
+  "dependencies": {
+    "restify": "^7.1.1"
+  }
+}
